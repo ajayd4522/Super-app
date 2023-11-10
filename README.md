@@ -1,4 +1,4 @@
-# Super-app
+# Super_app
 ## All in one app.
 ### Better than ever.
 
