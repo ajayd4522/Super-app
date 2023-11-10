@@ -1,4 +1,4 @@
-package SuperApp.Super-app;
+package SuperApp.Super_app;
 
 public class First {
     
